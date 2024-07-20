@@ -1,4 +1,4 @@
-# Terraform Elastic Beanstalk Application Deployment
+# Create an Elastic Beanstalk Application using Terraform
 
 ## Overview
 
